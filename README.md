@@ -124,18 +124,16 @@ Uygulama Firebase'e bağlıdır. Kullanıcı rolü Firestore'daki `users` koleks
 
 | İsim | Rol |
 |---|---|
-| Azra Altıntaş | |
+| Azra Altıntaş | |Order System and Notifications cart customization payment modal notification service
 | Cemanur Eşgi | Integration, Testing & Deployment — Map, video, unit tests, environment setup |
-| Rümeysa Özdemir | |
+| Rümeysa Özdemir | |Front Lead Customer Menu filtering reservetion flow dietary profile reviews
 | Zehra İkbal Sayın | Backend & Database — Firestore schema, service layer, auth/role system, API docs |
-| Hilal Yalçın | |
-
+| Hilal Yalçın | |Staff Manager Panel Kitchen Queue analytics charts reports CSV export 
 ---
 
 ## Live Demo
 
-> *(Add Vercel / Netlify URL after deployment)*
-
+>restora-inky.vercel.app
 ---
 
 ## License
